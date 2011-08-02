@@ -1,0 +1,18 @@
+{
+  "name": "sms_request",
+  "description": "Wrapper for sending smsified API requests.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adaburrows/sms_request",
+  "keywords": ["smsified", "sms"],
+  "author": "Jill Burrows <jill@adaburrows.com>",
+  "contributors": [],
+  "dependencies": { "api_request": ">=0.5.0" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adaburrows/sms_request"
+  },
+  "main": "./lib/sms_request",
+  "directories": {
+    "lib": "lib"
+  }
+}
